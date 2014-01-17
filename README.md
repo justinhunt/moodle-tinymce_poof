@@ -1,4 +1,4 @@
-moodle-tinymce_poof
-===================
+Legacy Files Go Poof
+==========
 
-A plugin for Moodle's TinyMCE that attempts to move legacy files in the text area over into the Moodle 2 file system. AKA legacy files go poof
+The Moodle Legacy Files Go Poof plugin for TinyMCE
