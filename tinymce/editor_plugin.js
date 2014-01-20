@@ -46,7 +46,7 @@
 							ed.windowManager.open({
 								file : ed.getParam("moodle_plugin_base") + 'poof/tinymce/poof.php?itemid='+itemid + '&areahtml=' + areahtml + '&courseid=' + courseid + '&cmid=' + cmid,
 								width : 350 + parseInt(ed.getLang('advlink.delta_width', 0)),
-								height : 350 + parseInt(ed.getLang('advlink.delta_height', 0)),
+								height : 400 + parseInt(ed.getLang('advlink.delta_height', 0)),
 								inline : 1
 							}, {
 								plugin_url : url
