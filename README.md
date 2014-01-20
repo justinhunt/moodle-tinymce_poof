@@ -10,3 +10,9 @@ It also works with old PoodLL filter links to audio and video files.
 If you turn off legacy files first, then go into an html area with legacy file images, they will appear as broken links. When you select them and press the "legacy files go poof" icon, a dialog will appear showing a list of files to fetch and replace. If you click "insert" it will do the fetch and replace.
 
 NB It does not work in TinyMCE full screen mode. 
+
+To install, unzip all the files (or clone the mod) into a directory called "poof" 
+Then place that directory in:
+ [MOODLE]/lib/editors/tinymce/plugins
+ 
+ Visit your site administration-> notifications page to complete the installation.
